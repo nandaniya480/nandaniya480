@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://amit0458.github.io)
 
-   Full Stack Web Developer and Designer
+   Full Stack Web Developer
    -------------------------------------
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 Just another geek around the world who got interest and passionate for 
@@ -43,7 +43,5 @@ coding, developing and solving problems.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nandaniya480&show_icons=true&hide=stars,&count_private=true&theme=radical&show_icons=true" alt="nandaniya480's GitHub stats" /></a>
 
 <a href="http://www.github.com/nandaniya480"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nandaniya480&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/nandaniya480"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nandaniya480&bg_color=0f172a&color=ffffff&line=f97316&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nandaniya480" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandaniya480&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
