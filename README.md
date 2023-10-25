@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi, I’m @Govind Nandaniya, Laravel dev.
 - 👀 I’m interested in Backend Technologies
 - 🌱 I’m currently learning Node.js
