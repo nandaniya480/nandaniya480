@@ -13,7 +13,7 @@ coding, developing and solving problems.
 * 🌱 I’m currently learning Node.js
 * 💬 Ask me about PHP,Laravel
 * 🖥️ See my portfolio at [https://nandaniya480.github.io](https://nandaniya480.github.io)
-* can reach me at 🐦 [nandaniya480](https://twitter.com/nandaniya480), 📫 [nandaniya480@gmail.com](mailto:nandaniya480@gmail.com) :[LinkedIn]([LinedIn](https://in.linkedin.com/in/nandaniya-govind-653244148))
+* can reach me at 🐦 [nandaniya480](https://twitter.com/nandaniya480), 📫 [nandaniya480@gmail.com](mailto:nandaniya480@gmail.com) [LinkedIn]([LinedIn](https://in.linkedin.com/in/nandaniya-govind-653244148))
 
 ### Skills
 
